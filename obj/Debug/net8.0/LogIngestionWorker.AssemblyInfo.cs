@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogIngestionWorker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d146c2dafb8d5de73a4b0f57b3ba84c8342c514e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogIngestionWorker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogIngestionWorker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
